@@ -143,7 +143,7 @@ function initMap() {
     };
   });
 
-  const apiKey = 'AIzaSyBvFCV1vMLodCqarkfmHJoE_NkZEmdz5PM';
+  const apiKey = 'AIzaSyAIPP3mYf-yOSd8x9XEjJ8vBU-dQMpdHXk';
   const infoWindow = new google.maps.InfoWindow();
   infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
 
