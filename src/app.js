@@ -143,7 +143,7 @@ function initMap() {
     };
   });
 
-  const apiKey = 'YOUR_API_KEY';
+  const apiKey = 'AIzaSyBvFCV1vMLodCqarkfmHJoE_NkZEmdz5PM';
   const infoWindow = new google.maps.InfoWindow();
   infoWindow.setOptions({pixelOffset: new google.maps.Size(0, -30)});
 
